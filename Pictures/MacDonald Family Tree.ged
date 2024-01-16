@@ -1,0 +1,826 @@
+0 HEAD
+1 SUBM @SUBM1@
+1 SOUR Ancestry.com Family Trees
+2 NAME Ancestry.com Member Trees
+2 VERS 2023.12
+2 _TREE MacDonald Family Tree
+3 RIN 106867580
+3 _ENV prd
+2 CORP Ancestry.com
+3 PHON 801-705-7000
+3 WWW www.ancestry.com
+3 ADDR 1300 West Traverse Parkway
+4 CONT Lehi, UT  84043
+4 CONT USA
+1 DATE 14 Jan 2024
+2 TIME 23:48:40
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUBM1@ SUBM
+1 NAME Ancestry.com Member Trees Submitter
+0 @I140056414671@ INDI
+1 NAME Laura /MacDonald/
+2 GIVN Laura
+2 SURN MacDonald
+1 SEX F
+1 FAMC @F3@
+1 BIRT
+2 DATE 12/12/1963
+2 PLAC NYC, New York, USA
+0 @I140056414825@ INDI
+1 NAME Angus /MacDonald/
+2 GIVN Angus
+2 SURN MacDonald
+1 SEX M
+1 FAMC @F17@
+1 FAMC @F18@
+1 FAMS @F3@
+1 BIRT
+2 DATE 6/15
+2 PLAC Islip, Suffolk, New York, USA
+1 DEAT
+2 DATE 12/26/2006
+2 PLAC Cottekill, Ulster, New York, USA
+1 OBJE @O12@
+1 OBJE @O1@
+0 @I140056414846@ INDI
+1 NAME Malcolm /MacDonald/
+2 GIVN Malcolm
+2 SURN MacDonald
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F17@
+1 BIRT
+2 PLAC Nova Scotia, Canada
+0 @I140056414927@ INDI
+1 NAME Ruth /Plunkett/
+2 GIVN Ruth
+2 SURN Plunkett
+1 SEX F
+1 FAMC @F7@
+1 FAMS @F18@
+0 @I140056415207@ INDI
+1 NAME Betty Irene /Meyer/
+2 GIVN Betty Irene
+2 SURN Meyer
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F3@
+0 @I140056415796@ INDI
+1 NAME Morton /Meyer/
+2 GIVN Morton
+2 SURN Meyer
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F13@
+1 BIRT
+2 PLAC Richmond, Virginia, USA
+1 DEAT
+2 PLAC Richmond, Virginia, USA
+0 @I140056416017@ INDI
+1 NAME Doris /Kaufman/
+2 GIVN Doris
+2 SURN Kaufman
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F13@
+1 BIRT
+2 PLAC Richmond, Virginia, USA
+1 DEAT
+2 PLAC Richmond, Virginia, USA
+0 @I140056418497@ INDI
+1 NAME Angus Roderick /MacDonald/
+2 GIVN Angus Roderick
+2 SURN MacDonald
+1 SEX M
+1 FAMC @F3@
+1 BIRT
+2 DATE 06/16/1961
+2 PLAC NYC, New York, USA
+1 DEAT
+2 DATE 01/17/2016
+2 PLAC Highland, Ulster, New York, USA
+0 @I142275615245@ INDI
+1 NAME Samuel /Meyer/
+2 GIVN Samuel
+2 SURN Meyer
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F1@
+1 BIRT
+2 DATE 1867
+2 PLAC Lipcani, Briceni, Moldova
+2 NOTE 1865 ACCORDING TO MARRIAGE CERTIFICATE,  JAN 1864 ACCORDING TO 1900 CENSUS,  1868 ACCORDING TO DEATH CERTIFICATE,   1867 ACCORDING TO 1910 &amp; 1920 CENSUS. 1868 is not possible because sister Mary born in 1868.
+1 DEAT
+2 DATE 5 January 1923
+2 PLAC Richmond, Virginia, USA
+1 OBJE @O10@
+2 _PRIM Y
+2 _CROP
+3 _LEFT 36
+3 _TOP 62
+3 _WDTH 1314
+3 _HGHT 1314
+3 _TYPE primary
+1 OBJE @O6@
+0 @I142275615848@ INDI
+1 NAME Emma Levy /Meyer/
+2 GIVN Emma Levy
+2 SURN Meyer
+1 SEX F
+1 FAMC @F11@
+1 FAMS @F1@
+1 BIRT
+2 DATE 1876
+2 PLAC New York, New York City Counties, New York, USA
+1 DEAT
+2 DATE 1966
+2 PLAC Richmond, Virginia, USA
+1 OBJE @O2@
+2 _PRIM Y
+1 OBJE @O9@
+0 @I142275615866@ INDI
+1 NAME Jacob Milton /Kaufman/
+2 GIVN Jacob Milton
+2 SURN Kaufman
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F10@
+1 BIRT
+2 DATE January 1885
+2 PLAC Russia
+1 DEAT
+2 DATE 1 Jul 1943
+2 PLAC Richmond, Virginia, USA
+0 @I142275615891@ INDI
+1 NAME Yetta /Harris/
+2 GIVN Yetta
+2 SURN Harris
+2 SOUR @S256451141@
+3 _APID 1,70484::79723
+1 SEX F
+1 FAMC @F15@
+1 FAMS @F10@
+1 BIRT
+2 DATE abt 1883
+2 PLAC Russia
+1 DEAT
+2 DATE Jan 1968
+2 PLAC Richmond, Henrico, Virginia, USA
+2 SOUR @S256451141@
+3 _APID 1,70484::79723
+0 @I142461215127@ INDI
+1 NAME Isaac Bernard /Harris/
+2 GIVN Isaac Bernard
+2 SURN Harris
+1 SEX M
+1 FAMS @F15@
+1 BIRT
+2 DATE abt 1862
+2 PLAC Russia
+0 @I142461215143@ INDI
+1 NAME Sarah (Sadie) /Hecht Harris/
+2 GIVN Sarah (Sadie)
+2 SURN Hecht Harris
+1 SEX F
+1 FAMS @F15@
+1 BIRT
+2 DATE abt 1862
+2 PLAC Russia
+0 @I142461215403@ INDI
+1 NAME Minnie (Mena) /Morris/
+2 GIVN Minnie (Mena)
+2 SURN Morris
+1 SEX F
+1 FAMS @F11@
+1 BIRT
+2 DATE Mar 1842
+2 PLAC Russia
+0 @I142461215515@ INDI
+1 NAME Lazarus /Levy/
+2 GIVN Lazarus
+2 SURN Levy
+1 SEX M
+1 FAMS @F11@
+1 BIRT
+2 DATE Aug 1843
+2 PLAC Russia
+0 @I142461215617@ INDI
+1 NAME Hannah "Anna" Rebecca /Deurenberg/
+2 GIVN Hannah "Anna" Rebecca
+2 SURN Deurenberg
+1 SEX F
+1 FAMS @F2@
+1 BIRT
+2 PLAC Russia
+0 @I142461215736@ INDI
+1 NAME Moses ober /Meyer/
+2 GIVN Moses ober
+2 SURN Meyer
+1 SEX M
+1 FAMS @F2@
+0 @I142461216493@ INDI
+1 NAME Katherine "Katie" /MacKinnon/
+2 GIVN Katherine "Katie"
+2 SURN MacKinnon
+1 SEX F
+1 FAMC @F9@
+1 FAMS @F6@
+1 BIRT
+2 DATE Oct 1861
+2 PLAC MacKinnon's Mt. Inverness Cty Cape Breton Nova Scotia Canada
+1 DEAT
+2 DATE Nov 1914
+0 @I142461216511@ INDI
+1 NAME Angus Peter /Macdonald/
+2 GIVN Angus Peter
+2 SURN Macdonald
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F6@
+1 BIRT
+2 DATE 20 May 1863
+2 PLAC Englishtown, Canada
+1 DEAT
+2 DATE AUG 1947
+2 PLAC NEW YORK CITY NY
+0 @I142461216769@ INDI
+1 NAME Peter /Macdonald/
+2 GIVN Peter
+2 SURN Macdonald
+1 SEX M
+1 FAMS @F14@
+1 BIRT
+2 DATE 09/09/1821
+1 DEAT
+2 DATE 07/12/1878
+0 @I142489229812@ INDI
+1 NAME Neil /MacKinnon/
+2 GIVN Neil
+2 SURN MacKinnon
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F9@
+1 BIRT
+2 DATE 1811
+2 PLAC ISLE OF RUM SCOTLAND
+1 DEAT
+2 DATE 03 Dec 1897
+0 @I142489229849@ INDI
+1 NAME Christy /Mckinnon/
+2 GIVN Christy
+2 SURN Mckinnon
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE ABT 1820
+2 PLAC KILTARLITY SCOTLAND
+1 DEAT
+2 DATE ABT 1861
+0 @I142489230074@ INDI
+1 NAME Annie /MacKay/
+2 GIVN Annie
+2 SURN MacKay
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F14@
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 1921
+0 @I142489230241@ INDI
+1 NAME Louis /Kaufman/
+2 GIVN Louis
+2 SURN Kaufman
+1 SEX M
+1 FAMS @F4@
+1 BIRT
+2 DATE January 1848
+2 PLAC Russia
+1 DEAT
+2 DATE January 16, 1924
+2 PLAC 3825 Park Heights Ave. Baltimore, MD
+1 OBJE @O7@
+2 _PRIM Y
+0 @I142489230261@ INDI
+1 NAME Jennie Minnie /Leinson/
+2 GIVN Jennie Minnie
+2 SURN Leinson
+1 SEX F
+1 FAMS @F4@
+1 BIRT
+2 DATE May 1852
+2 PLAC Russia
+1 DEAT
+2 DATE November 20, 1902
+2 PLAC 909 Fawn St, Baltimore, MD
+1 OBJE @O11@
+2 _PRIM Y
+0 @I142528346410@ INDI
+1 NAME Christopher F /Plunkett/
+2 GIVN Christopher F
+2 SURN Plunkett
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F7@
+1 BIRT
+2 DATE Apr 1859
+2 PLAC New York
+1 DEAT
+2 DATE 28 May 1938
+2 PLAC Manhattan, New York, USA
+1 OBJE @O5@
+2 _PRIM Y
+0 @I142528346416@ INDI
+1 NAME Abigail C. /Atkinson/
+2 GIVN Abigail C.
+2 SURN Atkinson
+1 SEX F
+1 FAMC @F16@
+1 FAMS @F7@
+1 BIRT
+2 DATE 23 Mar 1860
+2 PLAC New York
+1 DEAT
+2 DATE 15 May 1927
+2 PLAC Manhattan, New York, USA
+0 @I142528346531@ INDI
+1 NAME James John /Plunkett/
+2 GIVN James John
+2 SURN Plunkett
+1 SEX M
+1 FAMS @F12@
+1 BIRT
+2 DATE Bef. 30 May 1825
+2 PLAC Killucan, Westmeath, Ireland
+1 DEAT
+2 DATE 21 Nov 1899
+2 PLAC Manhattan, Kings, New York, USA
+1 OBJE @O4@
+2 _PRIM Y
+0 @I142528346541@ INDI
+1 NAME Mary Alice Bridget /Creighton/
+2 GIVN Mary Alice Bridget
+2 SURN Creighton
+1 SEX F
+1 FAMS @F12@
+1 BIRT
+2 DATE 1829
+2 PLAC Killinchy, Balloo, Down, Northern Ireland, United Kingdom
+1 DEAT
+2 DATE 03 Jul 1872
+2 PLAC Manhattan, Kings, New York, USA
+1 OBJE @O3@
+2 _PRIM Y
+0 @I142528346558@ INDI
+1 NAME John /Atkinson/
+2 GIVN John
+2 SURN Atkinson
+1 SEX M
+1 FAMS @F16@
+1 BIRT
+2 DATE Feb 1830
+2 PLAC New York
+0 @I142532536875@ INDI
+1 NAME MARGARET /MACLEAN/
+2 GIVN MARGARET
+2 SURN MACLEAN
+1 SEX F
+1 FAMS @F5@
+1 BIRT
+2 DATE 1776
+2 PLAC Kilmory, Isle of Rhum, Argyll, Scotland
+1 DEAT
+2 DATE 1872
+2 PLAC NS
+0 @I142532536893@ INDI
+1 NAME Malcolm /MacKinnon/
+2 GIVN Malcolm
+2 SURN MacKinnon
+1 SEX M
+1 FAMS @F5@
+1 BIRT
+2 DATE ABT. 1770
+2 PLAC Scotland? (Not yet a Blood Relative)
+1 DEAT
+2 DATE WFT Est 1838-1864
+2 PLAC Toronto Township, Peel, Ontario, Canada
+0 @I142532536941@ INDI
+1 NAME Neil /MacKay/
+2 GIVN Neil
+2 SURN MacKay
+1 SEX M
+1 FAMS @F8@
+1 BIRT
+2 DATE Abt. 1821
+2 PLAC Kilbrandon and Kilchattan, Argyll, Scotland
+1 DEAT
+2 DATE ABT 1880
+2 PLAC MACKAY@@PRODIGY.NET
+1 OBJE @O8@
+2 _PRIM Y
+0 @I142532536950@ INDI
+1 NAME Sarah /MacKinnon/
+2 GIVN Sarah
+2 SURN MacKinnon
+1 SEX F
+1 FAMS @F8@
+1 BIRT
+2 DATE Abt. 1821
+2 PLAC Isle of Rum, Scotland
+1 DEAT
+2 DATE ABT 1881
+2 PLAC Englishtown, Victoria, Nova Scotia, Canada
+0 @F1@ FAM
+1 HUSB @I142275615245@
+1 WIFE @I142275615848@
+1 CHIL @I140056415796@
+0 @F2@ FAM
+1 HUSB @I142461215736@
+1 WIFE @I142461215617@
+1 CHIL @I142275615245@
+0 @F3@ FAM
+1 HUSB @I140056414825@
+1 WIFE @I140056415207@
+1 CHIL @I140056418497@
+1 CHIL @I140056414671@
+2 _FREL unknown
+0 @F4@ FAM
+1 HUSB @I142489230241@
+1 WIFE @I142489230261@
+1 CHIL @I142275615866@
+0 @F5@ FAM
+1 HUSB @I142532536893@
+1 WIFE @I142532536875@
+1 CHIL @I142489229812@
+0 @F6@ FAM
+1 HUSB @I142461216511@
+1 WIFE @I142461216493@
+1 CHIL @I140056414846@
+0 @F7@ FAM
+1 HUSB @I142528346410@
+1 WIFE @I142528346416@
+1 CHIL @I140056414927@
+0 @F8@ FAM
+1 HUSB @I142532536941@
+1 WIFE @I142532536950@
+1 CHIL @I142489230074@
+0 @F9@ FAM
+1 HUSB @I142489229812@
+1 WIFE @I142489229849@
+1 CHIL @I142461216493@
+0 @F10@ FAM
+1 HUSB @I142275615866@
+1 WIFE @I142275615891@
+1 CHIL @I140056416017@
+0 @F11@ FAM
+1 HUSB @I142461215515@
+1 WIFE @I142461215403@
+1 CHIL @I142275615848@
+0 @F12@ FAM
+1 HUSB @I142528346531@
+1 WIFE @I142528346541@
+1 CHIL @I142528346410@
+0 @F13@ FAM
+1 HUSB @I140056415796@
+1 WIFE @I140056416017@
+1 CHIL @I140056415207@
+0 @F14@ FAM
+1 HUSB @I142461216769@
+1 WIFE @I142489230074@
+1 CHIL @I142461216511@
+0 @F15@ FAM
+1 HUSB @I142461215127@
+1 WIFE @I142461215143@
+1 CHIL @I142275615891@
+0 @F16@ FAM
+1 HUSB @I142528346558@
+1 CHIL @I142528346416@
+0 @F17@ FAM
+1 HUSB @I140056414846@
+1 CHIL @I140056414825@
+2 _FREL unknown
+0 @F18@ FAM
+1 WIFE @I140056414927@
+1 CHIL @I140056414825@
+2 _MREL unknown
+0 @O1@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 147505
+3 _WDTH 858
+3 _HGHT 857
+2 TITL Photo
+1 RIN 196c794f-0534-4bb3-8f17-1c95c31e2105
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2016-12-29 16:35:29.556
+1 _USER a+9kY9IzA4/7hjlHvaXoP29HcyxR9xPLbkyFqC2sp24xRPs0yIWCBxclP8d0sOzIdLpQnLV60qbj72Btc2K47Q==
+2 _ENCR 1
+1 _CLON
+2 _TID 58442005
+2 _PID 40035426621
+2 _OID 961e82a1-729f-42ab-bac7-216d87f31c59
+2 _USER u10FxCCW9cgmKbkB+mB+J2J+UXkkHQyIJpvmLhSlXu6ao4frec9xqZz2epaGCa1bvTtn3QL3WveYO9r1/e0vTg==
+3 _ENCR 1
+2 _DATE 2016-03-14 19:04:54.000
+1 _ORIG u
+1 _ATL N
+0 @O2@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 209909
+3 _WDTH 1171
+3 _HGHT 754
+2 TITL Green, Marjory Louise Wedding +
+1 RIN 445d49b9-fc95-4ea2-a7d4-8e10161ad207
+1 _CREA 2021-03-13 18:57:02.000
+1 _USER rgRisW9T8e20nL3nAKJ1/3hFwqI330NeJT5LP/E6px3ruU7zhVCKhMlXHVy9kQw8Ga0jxB6/V5w6/5u6oubMJA==
+2 _ENCR 1
+1 _CLON
+2 _TID 100658989
+2 _PID 270005343683
+2 _OID e5998928-caf7-4d6c-91cf-2b4f455e33bb
+2 _USER CE37bwmUIIgS930cRPw5oKmfOQOEUTtpDu+IB8zFkDajkb/17Y7KWFtr5WqK9WSotsRdJvIHqjuX2ndGsQIWtw==
+3 _ENCR 1
+2 _DATE 2015-05-24 17:48:47.000
+1 _ORIG u
+1 _ATL N
+0 @O3@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 11668
+3 _WDTH 256
+3 _HGHT 268
+2 TITL Creighton Badge
+1 RIN 46943175-4baa-46c7-97f2-1853e17c126a
+1 DATE 28-Jan-20 5:00:55 PM
+1 _DSCR This badge is not a claim to any heraldic symbology attached to the surname.
+2 CONT 
+2 CONT In many occurrences the badge displayed is 100% fictitious with no association to the surname of any kind, except use here.
+2 CONT 
+2 CONT This badge has been compiled from other internet sources for use in this tree. No ownership is claimed by the user.
+1 _CREA 2023-10-02 23:55:01.511
+1 _USER V9hRMMv/HiiyrzUh3d91Et+Am0sh4wKmPoD1ipyYj8qRXaa/9xzHoQ+tlNXtinB+FY0/0H5joFbVMkq3QOSVRQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 170067964
+2 _PID 422205190122
+2 _OID 39264611-2a82-45c4-9780-c6dc155d5b78
+2 _USER 86fYwBHtFqa8ETDL/qU9+4gCVJdMx3gjllwbwlHzXaLwmCXM9iX5k/qXa3cGbex77PfxnItGTVQtmkwv4SXPdQ==
+3 _ENCR 1
+2 _DATE 2020-06-30 17:27:40.000
+1 _ORIG u
+1 _MSER
+2 _LKID 39264611-2a82-45c4-9780-c6dc155d5b78
+1 _ATL N
+0 @O4@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpg
+3 _SIZE 20030
+3 _WDTH 358
+3 _HGHT 381
+2 TITL Plunkett Badge
+1 RIN 8df3bf2d-0a31-46a3-8dd9-58bdaedb2cc1
+1 DATE 11-Apr-20 5:12:24 PM
+1 _DSCR This badge is not a claim to any heraldic symbology attached to the surname.
+2 CONT 
+2 CONT In many occurrences the badge displayed is 100% fictitious with no association to the surname of any kind, except use here.
+2 CONT 
+2 CONT This badge has been compiled from other internet sources for use in this tree. No ownership is claimed by the user.
+1 _CREA 2023-10-02 23:54:55.980
+1 _USER Z/0K+TrHtTUJ7G7fLTaULeYLgpVGuUSiMdsLyt2AoxEpUB5Rp9KYfQVusDLES2ArV9HmdUp5h81Gw+gBpNm8bg==
+2 _ENCR 1
+1 _CLON
+2 _TID 170067964
+2 _PID 422205193334
+2 _OID c0190c1e-26c4-4f57-afc7-886454eb66f1
+2 _USER N+5hp+ugSO2KCLf0ehdLVsj/on4Fdw2Ys7lc7vKs83WBx/pu2g0WCUrHX+9LNr8exCZPUM8dfhrhlEKRKXkqBg==
+3 _ENCR 1
+2 _DATE 2020-06-30 17:29:33.000
+1 _ORIG u
+1 _MSER
+2 _LKID c0190c1e-26c4-4f57-afc7-886454eb66f1
+1 _ATL N
+0 @O5@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 1495050
+3 _WDTH 3648
+3 _HGHT 2736
+2 TITL Christopher F. Plunkett
+1 RIN 92e85aa3-c3b8-48ee-951a-dd12111c38df
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-10-02 23:53:33.656
+1 _USER g4zIs0L4PANZ2E38F4vW9/duy6T/2k23wovHRO8u6rsVuW9QIKNr2kbhzbzDis31DnqpSJR7hshw7FtEAQ9wlA==
+2 _ENCR 1
+1 _CLON
+2 _TID 771047
+2 _PID -813942485
+2 _OID 8c7c5346-d8e2-492e-a0d8-6963bc6bfffe
+2 _USER pVvrtbnFTf7OwZeACasbybTBKQZMdASejPWspB8jKu9rtt3W5/hSGojjaGPwSnsEEQ2vIdVdtG2WKkgZ3ERvAw==
+3 _ENCR 1
+2 _DATE 2014-11-22 19:11:14.000
+1 _ORIG u
+1 _MSER
+2 _LKID 8c7c5346-d8e2-492e-a0d8-6963bc6bfffe
+1 _ATL N
+0 @O6@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE document
+3 _STYPE jpeg
+3 _SIZE 45645
+3 _WDTH 400
+3 _HGHT 400
+2 TITL Car Accident in Richmond
+1 RIN ab0f6e74-57a7-4a5f-b48e-2da048a8b9a4
+1 DATE 2 Aug 1913
+1 PLAC Richmond, Virginia
+1 _CREA 2021-04-29 18:57:30.000
+1 _USER MFldG+BElvVL06nPkcGaf/92IxQx/+TsRlul/fRoivzMn0KgPJYsf975maXoHIIv7NQyqa6x/08dTccYWiRndw==
+2 _ENCR 1
+1 _CLON
+2 _TID 32533890
+2 _PID 140013285932
+2 _OID 04ab21ee-0613-40a6-a767-b42aae856871
+2 _USER ANue8LgAYVHRbAWalEqxv2uQPBafHpxHeMjTNLArDmnr8FAFiuG+MZ2+Qb4lu25sUu7lt4V6Kp3B/aT3trq0vw==
+3 _ENCR 1
+2 _DATE 2017-05-14 02:22:17.000
+1 _ORIG newspapers
+2 _URL https://www.newspapers.com/clip/10982565/the_times_dispatch/?xid=865
+1 _ATL N
+0 @O7@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 4112323
+3 _WDTH 2309
+3 _HGHT 3012
+2 TITL img005- DEATH CERTIFICATE
+1 RIN b7da777f-d0cf-4bb1-ba7d-458a1ab2d329
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-05-27 19:06:51.993
+1 _USER mNrcoyjbhLlXavkslTzgJB6pm6+IAhixLv0IJwy9Ffphe9quRY1saWJFpQb1je5c9upVebyj80HQi8qmqh4n3g==
+2 _ENCR 1
+1 _CLON
+2 _TID 80279433
+2 _PID 36422966285
+2 _OID 2d715024-c8bf-4d3e-9a44-834f25ddf880
+2 _USER 3cRFGczxRGuUOytxRKUahqfnueVS4V/KplHnhcQqn0od/93B1UhIbSlnFxCvSJe9g3s+Ebfna+EKO6WwBSVjWA==
+3 _ENCR 1
+2 _DATE 2015-05-19 22:59:36.883
+1 _ORIG u
+1 _MSER
+2 _LKID 2d715024-c8bf-4d3e-9a44-834f25ddf880
+1 _ATL N
+0 @O8@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 55049
+3 _WDTH 914
+3 _HGHT 209
+2 TITL alec mackay death certificate3 parents
+1 RIN c8faa59d-1051-4165-adae-8d79baffaab1
+1 _DSCR excerpt from Alexander John death certificate
+1 _CREA 2023-10-21 20:00:06.113
+1 _USER xi8UxzYZI0/F8NAr2RVAZ59xN6GaW9VrFvkCjwV7butmRlh73br+1xylwORvNj/f7O5lW55P/nQJOp5Jr21HTA==
+2 _ENCR 1
+1 _CLON
+2 _TID 167317552
+2 _PID 262176528552
+2 _OID 5f0b5c04-2a3b-4401-92f1-d9ac1f8b71ea
+2 _USER HcgQneWsnJcttQa1nBHlasuTYwQ6vH5GxZenKiNFyisfrMA4YjTcz6LbUssPrK2QAxmhrkLOMwvyJ/J87NMhcw==
+3 _ENCR 1
+2 _DATE 2020-07-09 04:04:22.000
+1 _ORIG u
+1 _MSER
+2 _LKID 5f0b5c04-2a3b-4401-92f1-d9ac1f8b71ea
+1 _ATL N
+0 @O9@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _STYPE jpeg
+3 _SIZE 667861
+3 _WDTH 1380
+3 _HGHT 2018
+2 TITL Uncle Sam & Aunt Emma
+1 RIN cfbdec5f-f557-4879-83da-b1c34ee933a2
+1 _CREA 2021-03-25 19:57:31.000
+1 _USER 4Lxye4VA6ibjz+XGEvdRIuZ44rpvlBIg3/EVpGcFv+pe9j1ECHtC8KNq2doFqLaHZfEyA6lA1r0GDnh01pvoWA==
+2 _ENCR 1
+1 _CLON
+2 _TID 32533890
+2 _PID 140013286395
+2 _OID b1130d39-f8fe-4886-8a0b-cc726f0feb81
+2 _USER HRSmFO1fE9vmEJyn2quhKeCaGTCbTTvtPXfrEZJiXV6ma0rnBMAs3AM+pJxxcGdPlXXIQq4ioUY4AJVy5HCHxA==
+3 _ENCR 1
+2 _DATE 2016-07-14 04:34:02.000
+1 _ORIG u
+1 _ATL N
+0 @O10@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 667861
+3 _WDTH 1380
+3 _HGHT 2018
+2 TITL Uncle Sam &  Aunt Emma
+1 RIN e5a9c888-22fe-41d3-9c0f-bd95df16eeea
+1 _CREA 2021-03-13 18:53:31.000
+1 _USER v2JDRvfbHUygVdc1+pSf4Y6HdpLx7+XCuc45FzaPPPUx9GG13Xd9zVKqhy8Zlw9syg1f03zIM46ctQZxfGz6bA==
+2 _ENCR 1
+1 _CLON
+2 _TID 32533890
+2 _PID 140013285932
+2 _OID b53226bd-706d-436a-8807-ad51debed8e4
+2 _USER PCNKXetjf4kNSJigzscycVpyhXj87KHvS3WYPvOIBzFVI7YYp+jn7UZ6/zcqK1/p22x0Nrliy5BGUXiv+Y6XSg==
+3 _ENCR 1
+2 _DATE 2016-07-14 04:31:31.000
+1 _ORIG u
+1 _ATL N
+0 @O11@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 575173
+3 _WDTH 1275
+3 _HGHT 1650
+2 TITL img013- death certificate
+1 RIN e7936213-1676-4dc5-a141-df7d887c9431
+1 DATE November 20, 1902
+1 PLAC 909 Fawn St, Baltimore, MD
+1 _DSCR Death Certificate: Nov 20, 1902: age 50, had resided in Baltimore for 10 years, born in Russia, died suddenly of congestive heart failure at her home at 909 Fawn St. Buried at Philadelphia Road. Certificate number in Md Archives is 53160.
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2023-05-27 19:07:04.814
+1 _USER rtcMq+gtFSiI1uPeNu7Yix8DIPcVELtZGS7I8Az+KLGk4+uhPIKY/vgZp+d4SWNEcjHESqrcgg2/eYBAWWFzfA==
+2 _ENCR 1
+1 _CLON
+2 _TID 80279433
+2 _PID 36422966495
+2 _OID e7011f94-dc71-46c0-8ad8-e63d4ca30df2
+2 _USER nRe2e4DjXMOR6LYoJdQSfFMvF8Dg2XU9PrbAXw1EJTgEJxNF5FjqUqU+x/hqYVGAJTzM98JzxqLzyWsprZeVkQ==
+3 _ENCR 1
+2 _DATE 2015-05-19 22:18:15.717
+1 _ORIG u
+1 _MSER
+2 _LKID e7011f94-dc71-46c0-8ad8-e63d4ca30df2
+1 _ATL N
+0 @O12@ OBJE
+1 FILE
+2 FORM jpg
+3 TYPE image
+3 _MTYPE portrait
+3 _STYPE jpeg
+3 _SIZE 284104
+3 _WDTH 1410
+3 _HGHT 984
+2 TITL Photo
+1 RIN e8fa6516-b624-494c-b5f0-9646108d0595
+1 _META <metadataxml><cemetery /><transcription /></metadataxml>
+1 _CREA 2016-12-29 16:35:38.898
+1 _USER Hap+V0o9inHJcLeRF9Bj3j3vcfK2OJpvJCw1qpNx4mritaiIOudmAds2TNfzupjLT1fx5Za92iNCdn/R1SHKVQ==
+2 _ENCR 1
+1 _CLON
+2 _TID 58442005
+2 _PID 40035426621
+2 _OID 68b4a2c9-6e65-44b7-97d7-e10284615898
+2 _USER Ax80TBUQO7A9lH1NjYwYPaKH5Vmb7C8jhErGw4DDqWzdcC6cQFV92Chu7pV/tJ6xwqRnGL/1aD0//k5+Cv4Umw==
+3 _ENCR 1
+2 _DATE 2016-03-14 19:05:14.000
+1 _ORIG u
+1 _ATL N
+0 @S256451141@ SOUR
+1 TITL Web: Newport News, Virginia, U.S., Daily Press Obituary Index, 1898-1988
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+2 DATE 2011
+2 PLAC Provo, UT, USA
+1 _APID 1,70484::0
+1 REPO @R204623633@
+0 @R204623633@ REPO
+1 NAME Ancestry.com
+0 TRLR
