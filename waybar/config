@@ -1,0 +1,107 @@
+{
+
+    "height": 30, 
+    "width": 1900,
+    "spacing": 9, 
+    "margin-bottom": -10, 		
+    "margin-top": 10, 		
+    "margin-right": 10, 	
+
+    "modules-left": ["sway/workspaces", "sway/mode"],
+    "modules-center": ["clock","custom/swaync"],
+    "modules-right": ["custom/weather", "custom/ln", "battery", "custom/ln", "network", "custom/ln", "pulseaudio" ],
+
+    "sway/window": {
+        "format": "{title}",
+        "max-length": 50,
+        "tooltip": false,
+        "rewrite": {
+           
+            "(.*) - (.*)": "$2"
+        }
+    },
+
+    "sway/mode": {
+        "format": "󱨈 "
+      },
+
+      "custom/swaync": {
+        "format": " ",
+        "on-click": "~/.config/swaync/scripts/tray_waybar.sh",
+        "on-click-right": "swaync-client -C",
+        "tooltip": false,
+        },
+    "custom/weather": {
+        "format": "{}",
+        "tooltip": true,
+        "interval": 3600,
+        "exec": "wttrbarpy --fahrenheit",
+        "return-type": "json"
+    },
+
+    "battery": {
+        "interval": 10,
+        "format-charging": "󱐋 {icon}  {capacity}%",
+        "format-charging-icons": ["", "", "", "", ""],
+        "format": "{icon}  {capacity}%",
+        "format-icons": ["", "", "", "", ""],
+        "tooltip": true
+    },
+
+    "network": {
+        "format": "⚠ Disabled",
+        "format-wifi": " ",
+        "format-ethernet": " {ifname}",
+        "format-disconnected": "⚠ Disconnected",
+        "on-click": "networkmanager_dmenu",
+        "tooltip" : true,
+        "tooltip-format" : "{ifname}\n{ipaddr}",
+        "tooltip-format-wifi" : "{essid} {ifname}\n{ipaddr}\nstrength: {signalStrength}%"
+    },
+
+    "clock": {
+        "format": "{:%I:%M}"
+    },
+
+
+    "pulseaudio": {
+        "scroll-step": 5,
+        "format": "{icon}  {volume}%",
+        "format-bluetooth": "{icon} {volume}%",
+        "format-muted":"muted ",
+        "format-icons": {
+            "headphones": "",
+            "handsfree": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", ""]
+        },
+    },
+
+    "custom/ln": {
+        "format": "|",
+        "interval" : "once",
+        "tooltip": false
+    },
+
+    "tray": {
+        "icon-size": 20,
+          "spacing": 9
+      },
+
+     "sway/workspaces": {
+         "disable-scroll": true,
+         "all-outputs": true,
+         "warp-on-scroll": false,
+         "format": "{icon}",
+         "format-icons": {
+             "urgent": "",
+             "focused": "",
+             "default": ""
+         }
+     }
+    
+}
+
