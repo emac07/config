@@ -3,6 +3,14 @@ import = ["/home/emmett/.config/alacritty/nord.toml"]
 [colors]
 draw_bold_text_with_bright_colors = true
 
+[font]
+size = 12.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+
 [[keyboard.bindings]]
 action = "SpawnNewInstance"
 key = "Return"
